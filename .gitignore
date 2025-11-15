@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+gymenv/
+venv/
+env/
+
+# Model / training artifacts
+*.zip
+*.pkl
+*.png
+*.npz
+
+# Logs
+*.log
+
+# IDE configs
+.vscode/
+.idea/
