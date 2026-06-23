@@ -16,6 +16,7 @@ env/
 # Logs
 *.log
 
-# IDE configs
+# IDE / tooling configs
 .vscode/
 .idea/
+.claude/
