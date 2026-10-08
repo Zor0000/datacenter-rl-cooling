@@ -2,6 +2,8 @@
 
 A simulated data-center cooling control system using Gymnasium and Soft Actor-Critic (SAC) reinforcement learning.
 
+**Live demo:** [Data Center Cooling Optimization](https://zor0000.github.io/datacenter-rl-cooling/)
+
 ## Project Structure
 
 - data_center_cooling_v0.py     → custom Gymnasium environment  
@@ -55,4 +57,3 @@ This will:
 - Save eval_plot.png
 
 <img width="1920" height="1019" alt="image" src="https://github.com/user-attachments/assets/c83f089a-b9c8-4bcc-a68d-16db22a0bddd" />
-
